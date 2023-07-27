@@ -1,11 +1,48 @@
-.def{
-    color: brown;
-    text-emphasis-color: blue;
-    text-align: center;
+body{
+    background-color: rgb(6, 110, 84);
+
+}
+
+header{
+    background-color: rgb(5, 88, 126);
 }
 
 h1{
-background-color: pink;
-color: teal;
-font-size: large;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    padding: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 15px;
+    }
+
+.mini-header{
+    color: white;
+    text-align: center;
+}
+
+.project-holder{
+    display: flex;
+    width: 95%;
+    background-color: white;
+    margin: auto;
+    justify-content: space-around;
+}
+
+
+
+
+
+.project-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:70vh;
+    width: 25%;
+    background-color: rebeccapurple;
+}
+
+.project-display p{
+    text-align: center;
+    color: white;
 }
