@@ -1,5 +1,11 @@
-def {
+.def{
     color: brown;
     text-emphasis-color: blue;
     text-align: center;
+}
+
+head{
+background-color: pink;
+color: teal;
+font-size: large;
 }
