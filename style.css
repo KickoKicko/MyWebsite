@@ -1,3 +1,5 @@
 :default-p{
     color: brown;
+    text-emphasis-color: blue;
+    text-align: center;
 }
